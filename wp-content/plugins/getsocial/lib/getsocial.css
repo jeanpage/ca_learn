@@ -1,0 +1,8 @@
+.gsclear{clear:both;}
+iframe#centup_iframe{width:68px!important;}
+.sharebutton{padding:4px 0;width:100%;float:left;z-index:250;list-style:none;margin:0 auto;}
+.getsocial{position:absolute;top:200px;left:0px;z-index:200;text-align:center;padding:7px 5px;}
+.sharebutton.sharefooter{font-size:0.6em;padding:0;margin:0;width:100%;float:left;z-index:250;list-style:none;}
+.sharebutton.sharefooter a{text-decoration:none;}
+.suHostedBadge{list-style: none;}
+@media only screen and (max-width: 767px){.getsocial{display:none !important;}}
